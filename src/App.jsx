@@ -1,7 +1,7 @@
 import AlertState from './Alert/Alert/AlertState'
 import './App.css'
 import Alert from './Component/Alert'
-import Home from "./pages/Home"
+import Home from "./Pages/Home"
 
 function App() {
 
