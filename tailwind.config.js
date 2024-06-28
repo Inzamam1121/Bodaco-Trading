@@ -7,10 +7,10 @@ export default {
   theme: {
     extend: {
       fontFamily:{
-        lato:"Lato",
-        great:"Great Vibes",
-        open:"Open Sans",
-        Helvetica:"Helvetica",
+        major: "Poppins",
+      },
+      boxShadow:{
+        shadownav:"0px 0px 21px 0px #9191918f"
       }
     },
   },
